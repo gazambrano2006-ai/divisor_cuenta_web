@@ -11,6 +11,12 @@ node_modules
 dist
 dist-ssr
 *.local
+build/
+coverage/
+.vitest/
+.cache/
+.env*
+Thumbs.db
 
 # Editor directories and files
 .vscode/*

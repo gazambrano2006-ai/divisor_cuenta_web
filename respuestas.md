@@ -44,8 +44,8 @@ Otras siete necesitaron adaptar la redacción:
 
 El resultado fue:
 
-- 6 reglas idénticas.
-- 7 reglas adaptadas.
+- 5 reglas idénticas.
+- 8 reglas adaptadas.
 - 0 reglas reemplazadas.
 
 En general, los principios sí se pudieron mantener. Lo que cambió fueron principalmente los nombres y detalles propios de cada tecnología.

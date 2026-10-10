@@ -102,7 +102,6 @@ incluyendo edición, errores, recuperación, cálculo y actividad del worker.
 
 ## Validación
 
-Implementación verificada el 2026-10-09: 139 pruebas de dominio/presentación/aceptación,
-2 pruebas de navegador offline/desarrollo, ESLint y build correctos.
+Implementación verificada el 2026-10-09: 149 pruebas correctas, incluyendo los casos de aceptación, LSP, pruebas de pantalla y verificaciones offline. ESLint y build correctos.
 Los seis CA cumplen sus valores y mensajes tanto en la pantalla normal como offline.
-La spec y la Constitution se conservaron sin modificaciones.
+La spec se conservó sin modificaciones. La Constitution mantuvo sus principios, pero adaptó la redacción necesaria de Flutter/Dart a React/JavaScript.
